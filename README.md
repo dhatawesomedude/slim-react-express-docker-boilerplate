@@ -1,4 +1,4 @@
-# swarm-town
+# [WIP] Slim boilerplate for full stack projects
 
 
 ## This is a mono repo with 2 projects:
